@@ -12,7 +12,7 @@
       <el-menu-item class="right" index="login">Se Connecter</el-menu-item>
       <el-menu-item class="right" index="profile">User</el-menu-item>
       <!-- for testing -->
-      <el-menu-item class="right" index="about">A Propos</el-menu-item>
+      <el-menu-item class="right" index="dashboard">Dashboard</el-menu-item>
 
     </el-menu>
   </div>
