@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <div class="centred">
-      <h1>Nuntius</h1>
-      <p>Plateforme de gestion pour fournisseurs de services agricole</p>
+      <h1>404</h1>
+      <p>Not Found</p>
     </div>
   </div>
 </template>
@@ -28,7 +28,10 @@ export default {
   }
 
   p {
+    margin: 0;
     color: #828282;
+    font-size: 2rem;
+    text-transform: uppercase;
   }
 
   .centred {
